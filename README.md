@@ -1,4 +1,4 @@
-# Interactive Movie Dialogs Visualization Project
+# Exploring Textual Data through Interactive Visualizations
 
 ## Overview
 
